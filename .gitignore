@@ -103,6 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 *.DS_Store
-pytorch-yolo-v3/weights/yolov3-tiny.weights
-pytorch-yolo-v3/weights/yolov3-spp.weights
-pytorch-yolo-v3/weights/yolov3.weights
+pytorch-yolo/weights/yolov3-tiny.weights
+pytorch-yolo/weights/yolov3-spp.weights
+pytorch-yolo/weights/yolov3.weights
